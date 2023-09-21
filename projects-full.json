@@ -1,0 +1,26 @@
+[
+{
+ "id": 1,
+  "project_name": "Sample Project",
+  "country": "Tunisia",
+  "city": "Tunis",
+  "start_date": "2022-01-15T00:00:00Z",
+  "end_date": "2022-12-31T00:00:00Z",
+  "budget": 50000.00,
+  "status": "In Progress",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [10.1761, 36.8065]}}
+,{
+  "id": 2,
+  "project_name": "Algiers Project",
+  "country": "Algeria",
+  "city": "Algiers",
+  "start_date": "2022-03-10T00:00:00Z",
+  "end_date": "2022-11-30T00:00:00Z",
+  "budget": 75000.00,
+  "status": "Completed",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [3.0588, 36.7538]}}
+]
