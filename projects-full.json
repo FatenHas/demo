@@ -8,6 +8,8 @@
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 50000.00,
   "status": "In Progress",
+  "investor": "FMI",
+  "sector": "Education",
   "geometry": {
     "type": "Point",
     "coordinates": [10.1761, 36.8065]}}
@@ -20,6 +22,8 @@
   "end_date": "2022-11-30T00:00:00Z",
   "budget": 75000.00,
   "status": "Completed",
+  "investor": "BAD",
+  "sector": "Social",
   "geometry": {
     "type": "Point",
     "coordinates": [3.0588, 36.7538]}}
