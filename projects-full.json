@@ -82,7 +82,7 @@
   "sector": "Social",
   "geometry": {
     "type": "Point",
-    "coordinates": 7.7588, 36.8992]}}
+    "coordinates": [7.7588, 36.8992]}}
 ,{
   "id": 8,
   "project_name": "Sample Project in Sousse",
