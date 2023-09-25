@@ -7,7 +7,9 @@
   "start_date": "2022-03-01T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 75000.00,
-  "status": "In Progress",
+  "status": "Pending",
+  "investor": "FMI",
+  "sector": "Health",
   "geometry": {
     "type": "Point",
     "coordinates": [31.2357, 30.0444]}}
@@ -19,7 +21,9 @@
   "start_date": "2022-02-10T00:00:00Z",
   "end_date": "2022-11-30T00:00:00Z",
   "budget": 60000.00,
-  "status": "In Progress",
+  "status": "Closed",
+  "investor": "FMI",
+  "sector": "Social",
   "geometry": {
     "type": "Point",
     "coordinates": [-9.5981, 30.4211]}}
@@ -31,7 +35,9 @@
   "start_date": "2022-03-15T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 55000.00,
-  "status": "In Progress",
+  "status": "Upcoming",
+  "investor": "FMI",
+  "sector": "Environmental",
   "geometry": {
     "type": "Point",
     "coordinates": [-7.5898, 31.6295]}}
@@ -43,7 +49,9 @@
   "start_date": "2022-04-05T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 70000.00,
-  "status": "In Progress",
+  "status": "Pending",
+  "investor": "FMI",
+  "sector": "Health",
   "geometry": {
     "type": "Point",
     "coordinates": [-7.6134, 33.5951]}}
@@ -55,9 +63,9 @@
   "start_date": "2022-03-10T00:00:00Z",
   "end_date": "2022-11-30T00:00:00Z",
   "budget": 75000.00,
-  "status": "Completed",
-  "investor": "BAD",
-  "sector": "Social",
+  "status": "In Progress",
+  "investor": "FMI",
+  "sector": "Education",
   "geometry": {
     "type": "Point",
     "coordinates": [3.0588, 36.7538]}}
@@ -69,7 +77,9 @@
   "start_date": "2022-03-20T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 48000.00,
-  "status": "In Progress",
+  "status": "Closed",
+   "investor": "FMI",
+  "sector": "Social",
   "geometry": {
     "type": "Point",
     "coordinates": 7.7588, 36.8992]}}
@@ -81,7 +91,9 @@
   "start_date": "2022-04-10T00:00:00Z",
   "end_date": "2022-11-30T00:00:00Z",
   "budget": 55000.00,
-  "status": "In Progress",
+  "status": "Upcoming",
+  "investor": "FMI",
+  "sector": "Environmental",
   "geometry": {
     "type": "Point",
     "coordinates": [10.6401, 35.8252]}}
@@ -93,7 +105,9 @@
   "start_date": "2022-03-15T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 60000.00,
-  "status": "In Progress",
+  "status": "Pending",
+  "investor": "FMI",
+  "sector": "Health",
   "geometry": {
     "type": "Point",
     "coordinates": [10.7592, 34.7406]}}
@@ -106,6 +120,8 @@
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 50000.00,
   "status": "In Progress",
+   "investor": "FMI",
+  "sector": "Education",
   "geometry": {
     "type": "Point",
     "coordinates": [10.1167, 33.8886]}}
@@ -117,9 +133,9 @@
   "start_date": "2022-01-15T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 50000.00,
-  "status": "In Progress",
+  "status": "Closed",
   "investor": "FMI",
-  "sector": "Education",
+  "sector": "Social",
   "geometry": {
     "type": "Point",
     "coordinates": [10.1761, 36.8065]}}
@@ -131,7 +147,9 @@
   "start_date": "2022-04-05T00:00:00Z",
   "end_date": "2022-12-31T00:00:00Z",
   "budget": 55000.00,
-  "status": "In Progress",
+  "status": "Upcoming",
+  "investor": "FMI",
+  "sector": "Environmental",
   "geometry": {
     "type": "Point",
     "coordinates": [13.1875, 32.8811]}}
